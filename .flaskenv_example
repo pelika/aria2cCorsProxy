@@ -1,0 +1,5 @@
+FLASK_APP=server
+FLASK_ENV=development
+FLASK_RUN_HOST=127.0.0.1
+FLASK_RUN_PORT=6800
+FLASK_ARIA2_RPC_URL=http://<host>:<port>/jsonrpc
